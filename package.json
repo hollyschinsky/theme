@@ -1,6 +1,6 @@
 {
   "name": "hollys-theme",
-  "version": "0.5.24",
+  "version": "0.1.0",
   "description": "Default theme for Topcoat components",
   "main": "Gruntfile.js",
   "repository": {

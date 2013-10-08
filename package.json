@@ -2,6 +2,11 @@
   "name": "hollys-theme",
   "version": "0.1.0",
   "description": "Holly's theme for Topcoat components",
+  "main": "Gruntfile.js",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/hollyschinsky/theme.git"
+  },
   "keywords": [
     "topcoat",
     "css",
